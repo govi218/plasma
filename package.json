@@ -1,0 +1,25 @@
+{
+  "name": "plasma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://govi218@github.com/govi218/plasma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/govi218/plasma/issues"
+  },
+  "homepage": "https://github.com/govi218/plasma#readme",
+  "dependencies": {
+    "aws-sdk": "^2.288.0",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "uuid": "^3.3.2"
+  }
+}
