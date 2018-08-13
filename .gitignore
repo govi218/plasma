@@ -1,2 +1,4 @@
 aws.js
 node_modules
+*.zip
+*.txt
